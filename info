@@ -1,0 +1,11 @@
+ Networking Labs (Cisco Packet Tracer)
+
+This repository contains a collection of hands-on labs built in **Cisco Packet Tracer** to demonstrate fundamental and intermediate networking concepts.  
+
+Each project is documented with:
+-Network topology diagrams
+-Key router & switch configurations
+-Verification screenshots (pings, DHCP leases, ACL counters)
+-Security best practices
+
+These labs serve as both a **personal portfolio** and a **study resource** for roles such as Network Technician, NOC Analyst, or Systems Administrator.
